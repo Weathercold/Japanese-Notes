@@ -20,5 +20,9 @@
   ],
   "showInlineTitle": false,
   "foldIndent": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": true,
+  "userIgnoreFilters": [
+    "LICENSE.md",
+    "README.md"
+  ]
 }
