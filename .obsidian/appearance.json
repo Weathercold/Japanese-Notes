@@ -2,6 +2,9 @@
   "accentColor": "",
   "cssTheme": "Catppuccin",
   "theme": "system",
-  "textFontFamily": "Inter",
-  "baseFontSize": 16
+  "textFontFamily": "Open Sans,Inter",
+  "baseFontSize": 16,
+  "interfaceFontFamily": "Open Sans",
+  "monospaceFontFamily": "Iosevka Term Extended",
+  "baseFontSizeAction": false
 }
