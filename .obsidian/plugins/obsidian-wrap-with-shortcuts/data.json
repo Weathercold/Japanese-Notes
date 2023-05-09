@@ -1,0 +1,16 @@
+{
+  "wrapperTags": [
+    {
+      "id": "w1683647492392",
+      "name": "rt",
+      "startTag": "<rt>",
+      "endTag": "</rt>"
+    },
+    {
+      "id": "w1683647460989",
+      "name": "ruby",
+      "startTag": "<ruby>",
+      "endTag": "</ruby>"
+    }
+  ]
+}
