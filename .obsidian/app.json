@@ -23,6 +23,8 @@
   "strictLineBreaks": true,
   "userIgnoreFilters": [
     "LICENSE.md",
-    "README.md"
-  ]
+    "README.md",
+    "Templates"
+  ],
+  "newFileLocation": "current"
 }

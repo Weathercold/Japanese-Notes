@@ -23,14 +23,6 @@
       "key": "/"
     }
   ],
-  "editor:toggle-comments": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": ";"
-    }
-  ],
   "obsidian-git:open-git-view": [
     {
       "modifiers": [
@@ -38,14 +30,6 @@
         "Shift"
       ],
       "key": "G"
-    }
-  ],
-  "editor:toggle-strikethrough": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "S"
     }
   ],
   "editor:toggle-blockquote": [
@@ -63,22 +47,6 @@
         "Shift"
       ],
       "key": "S"
-    }
-  ],
-  "editor:toggle-code": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
-    }
-  ],
-  "editor:toggle-bold": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "B"
     }
   ],
   "editor:fold-more": [
@@ -182,5 +150,40 @@
       "key": "["
     }
   ],
-  "editor:toggle-italics": []
+  "editor:toggle-italics": [],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "Tab"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1683647460989": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-wrap-with-shortcuts:wrap-with-shortcut-w1683647492392": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-bold": [],
+  "editor:toggle-comments": []
 }
