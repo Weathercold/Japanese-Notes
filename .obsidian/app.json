@@ -24,7 +24,8 @@
   "userIgnoreFilters": [
     "LICENSE.md",
     "README.md",
-    "Templates"
+    "Templates/"
   ],
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "livePreview": false
 }
