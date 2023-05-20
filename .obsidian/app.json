@@ -27,5 +27,8 @@
     "Templates/"
   ],
   "newFileLocation": "current",
-  "livePreview": false
+  "livePreview": false,
+  "defaultViewMode": "preview",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative"
 }
