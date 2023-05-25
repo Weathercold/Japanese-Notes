@@ -1,6 +1,6 @@
 ---
 tag:
-keyword:
+keywords:
 importance: low
 date: {{date}} {{time}}
 ---
