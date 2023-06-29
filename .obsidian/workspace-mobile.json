@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "df53c58dbe928e73",
+        "id": "5fc8968c7377c89b",
         "type": "tabs",
         "children": [
           {
-            "id": "34988ad6ac8d48b3",
+            "id": "0736dba87a52c65b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "N5 Class 2/誰／どなた／何.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "94cca7bc6bb34fa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "N5 Class 5/いつ／何（时间）.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ],
@@ -106,6 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "N5 Class 2/誰／どなた／何.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,6 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "N5 Class 2/誰／どなた／何.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +150,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "N5 Class 2/誰／どなた／何.md"
+          }
         }
       },
       {
@@ -143,7 +163,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,34 +175,35 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "34988ad6ac8d48b3",
+  "active": "630dcb92498607d2",
   "lastOpenFiles": [
-    "N5 Class 1/か.md",
-    "N5 Class 1/です／ではありません.md",
-    "N5 Class 4/あります／います.md",
-    "N5 Class 6/日期.md",
-    "N5 Class 6/で／から（地点）／へ.md",
-    "N5 Class 5/に／から（时间）／まで.md",
     "N5 Class 5/いつ／何（时间）.md",
-    "N5 Class 5/ます型变位.md",
-    "N5 Class 5/过去式.md",
-    "N5 Class 5/动词三分类.md",
-    "N5 Class 4/全盘否定.md",
     "N5 Class 4/と.md",
+    "N5 Class 2/誰／どなた／何.md",
+    "N5 Class 7/を.md",
+    "N5 Class 2/こ／そ／あ／ど.md",
+    "N5 Class 3/人／地代词.md",
+    "N5 Class 7/か.md",
+    "N.md",
+    "N5 Class 5/动词三分类.md",
+    "N5 Class 6/で／から（地点）／へ.md",
+    "N5 Class 6/日期.md",
+    "N5 Class 4/あります／います.md",
+    "N5 Class 4/全盘否定.md",
+    "N5 Class 5/に／から（时间）／まで.md",
+    "N5 Class 5/过去式.md",
+    "N5 Class 5/ます型变位.md",
+    "N5 Basics/五十音.md",
+    "N5 Class 6/Untitled.md",
+    "N5 Class 7",
+    "N5 Class 1/です／ではありません.md",
+    "N5 Class 1/か.md",
     "N5 Class 3/いくら.md",
     "N5 Class 3/ＡはＢですか、Ｃですか、….md",
     "N5 Class 3/も.md",
-    "N5 Class 3/人／地代词.md",
     "N5 Class 2/はい／ええ.md",
     "N5 Class 2/何歳ですか ／おいくつ.md",
-    "N5 Class 2/誰／どなた／何.md",
-    "N5 Class 2/こ／そ／あ／ど.md",
     "N5 Class 2/人／方.md",
-    "N5 Basics/五十音.md",
-    "N5 Class 1/称呼.md",
-    "N5 Class 1/の.md",
-    "N5 Basics/拗音.md",
-    "N5 Basics/促音.md",
     "Data/声调图.jpeg",
     "N5 Class 6",
     "Templates",
@@ -193,7 +215,6 @@
     "N5 Class 3",
     "N5 Class 2",
     "Data/3e700394-e385-4b1e-9b65-c6f7a20d63fb 1.jpeg",
-    "N5 Basics",
-    "N5 Class 1"
+    "N5 Basics"
   ]
 }
