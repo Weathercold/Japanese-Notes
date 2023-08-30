@@ -19,7 +19,7 @@
     "table-editor-obsidian:format-table"
   ],
   "showInlineTitle": false,
-  "foldIndent": false,
+  "foldIndent": true,
   "strictLineBreaks": true,
   "userIgnoreFilters": [
     "LICENSE.md",

@@ -11,8 +11,11 @@
             "id": "9b8d3131e105cad9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/plugins/easy-typing-obsidian/data.json",
+                "staged": false
+              }
             }
           }
         ],
@@ -139,12 +142,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
